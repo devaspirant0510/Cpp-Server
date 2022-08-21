@@ -6,7 +6,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 
-#define PORT 8002
+#define PORT 8009
 
 const int buffer_size = 4096;
 char buffer[buffer_size];
